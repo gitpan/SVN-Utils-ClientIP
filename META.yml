@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               SVN-Utils-ClientIP
-version:            0.01
+version:            0.02
 abstract:           Get the client's IP address in a Subversion Hook
 author:
     - Mike Schilli <cpan@perlmeister.com>
